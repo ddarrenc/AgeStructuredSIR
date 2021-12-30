@@ -1,7 +1,7 @@
 # AgeStructuredSIR
 Modeling an age-structured SIR model for NYC and effects of stronger social distancing policies. 
 
-Age-structured SIR model: https://www.nature.com/articles/s41598-021-94609-3 
+Age-structured SIR model: https://www.nature.com/articles/s41598-021-94609-3 \
 Basic SIR starter: https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/ 
 
 Application Examples:
