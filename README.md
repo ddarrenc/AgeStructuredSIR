@@ -4,7 +4,8 @@ Modeling an age-structured SIR model for NYC and effects of stronger social dist
 Age-structured SIR model: https://www.nature.com/articles/s41598-021-94609-3 \
 Basic SIR starter: https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/ \
 NYC Population Data: https://www.baruch.cuny.edu/nycdata/population-geography/age_distribution.htm  \
-Borough, Age Bracket Infection Rates: https://www1.nyc.gov/site/doh/covid/covid-19-data-totals.page#rates (Data was used from December 10, 2021) \
+Borough, Age Bracket Infection Rates: https://www1.nyc.gov/site/doh/covid/covid-19-data-totals.page#rates \
+(Data was used from December 10, 2021) 
 
 Application Examples:
 
